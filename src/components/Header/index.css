@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+
+.list-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  font-family: 'Roboto';
+}
+
+li {
+  margin-right: 15px;
+}
